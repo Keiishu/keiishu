@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x3b16cd9b8c861399"><img src="https://img.shields.io/badge/pgp-0x3B16CD9B8C861399-blue?style=flat-square"></img></a>
+</p>
+
 ### Hi there! 🫡
 📖 I'm a postgraduate student in computer science, currently enrolled in a cybersecurity program.
 
